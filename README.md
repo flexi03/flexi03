@@ -1,4 +1,3 @@
-###About me
 - 👋 Hi, I’m @flexi03 aka Felix
 - 👀 I’m interested in coding, photography/ videogrophy 
 - 🌱 I’m currently learning Swift/SwiftUI, HTML/CSS (and java in uni)
