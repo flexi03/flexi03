@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @flexi03 
+###About me
+- 👋 Hi, I’m @flexi03 aka Felix
 - 👀 I’m interested in coding, photography/ videogrophy 
-- 🌱 I’m currently learning Swift/SwiftUI (and C in uni)
-- 💞️ I’m looking to collaborate on idk yet
+- 🌱 I’m currently learning Swift/SwiftUI, HTML/CSS (and java in uni)
 - 📫 How to reach me: here on GitHub or on IG: slayingfelix or cinematicfelix
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm writing this Read.me on vacation on Mallorca 🕺 🇪🇸
